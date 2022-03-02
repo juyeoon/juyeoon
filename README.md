@@ -1,6 +1,6 @@
 # 👋 Hello I'm Juyeon Park 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuyeoon%2Fhit-counter&count_bg=%2390B0E7&title_bg=%23777777&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjuyeoon%2Fhit-counter&count_bg=%2390B0E7&title_bg=%23777777&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/juyeoon)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:18cwceark@gmail.com)](mailto:18cwceark@gmail.com)
 
 [![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=270&section=header&text=Juyeon%20Park&fontSize=90&animation=fadeIn&fontAlignY=38&fontColor=ffffff&desc=🦕%20Welcome%20to%20my%20GitHub!%20🦕&descAlignY=58&descAlign=65)](https://github.com/juyeoon)
