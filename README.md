@@ -10,7 +10,7 @@
 ## 🏛️ Education & Experience
 
 + Bachelor of Science in Computer Engineering, Changwon National University, 2018 - 2022
-+ SAMSUNG SW Academy for Youth(SSAFY) 7th, 2022 - present
++ SAMSUNG SW Academy for Youth(SSAFY) 7th, 2022.01. - 2022.12.
 <br/>
 
 ## 📚 Stack
