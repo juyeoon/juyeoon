@@ -15,13 +15,13 @@
 
 ## 📚 Stack
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-
+<!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juyn2000)](https://solved.ac/juyn2000/)
 <a href="https://github.com/juyeoon" target="_blank">
 	<img src="https://github-readme-stats.vercel.app/api?username=juyeoon&show_icons=true&theme=ayu-mirage" height="170">
 <a>
 <br/>
-
+<!--
 
 
 
