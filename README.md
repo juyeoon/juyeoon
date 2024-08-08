@@ -13,8 +13,10 @@
 + SAMSUNG SW Academy for Youth(SSAFY) 7th, 2022.01. - 2022.12.
 <br/>
 
+<!--
 ## 📚 Stack
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+-->
 <!--
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juyn2000)](https://solved.ac/juyn2000/)
 <a href="https://github.com/juyeoon" target="_blank">
